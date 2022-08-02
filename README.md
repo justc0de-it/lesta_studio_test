@@ -1,2 +1,2 @@
-# lesta_studio_test
-Тестовые задания для компании Lesta Studio
+# Тестовы задания для компании Lesta StudioLesta Studio
+## Первое задание (файл number_parity.py)
